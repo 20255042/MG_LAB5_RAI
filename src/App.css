@@ -1,0 +1,31 @@
+*{
+  margin: 0 auto;
+  text-align: center;
+
+}
+#root{
+  background-color: antiquewhite;
+}
+h3{
+  margin-top: 6ch;
+  margin-bottom: 3ch;
+}
+h5{
+  margin-left: 20ch;
+  margin-right: 20ch;
+  text-align: left;
+}
+#hehe img{
+  width: 2000px;
+}
+img{
+  width: 400px;
+  margin-bottom: 5ch;
+}
+p{
+  font-size: larger;
+  margin-left: 30ch;
+  margin-right: 30ch;
+   margin-bottom: 5ch;
+   margin-top: 6ch;
+}
