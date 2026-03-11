@@ -10,14 +10,16 @@ function App() {
     <>
       
       <Router>
-        <img id="hehe" src="src/images/univ.jpg" class="img-fluid" alt="..."></img>
-        <nav class="navbar bg-body-tertiary">
-      <div class="container-fluid">
-    <span class="navbar-brand mb-0 h1">Navbar</span> 
+
+        
+        <nav className="navbar bg-body-tertiary">
+      <div className="container-fluid">
+    <span className="navbar-brand mb-0 h1">University of Baguio</span> 
         <Link to="/">Home</Link>  
         <Link to="/about"> About</Link> 
         <Link to="/services"> Services</Link> 
         <Link to="/contact"> Contact</Link>
+        
      </div>
       </nav>
 

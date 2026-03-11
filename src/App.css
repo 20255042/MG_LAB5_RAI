@@ -29,3 +29,6 @@ p{
    margin-bottom: 5ch;
    margin-top: 6ch;
 }
+ol #list-group list-group-numbered{
+  width: 500px;
+}

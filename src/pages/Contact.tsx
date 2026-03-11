@@ -1,7 +1,9 @@
+
+
 function Contact(){
     return(
         <>
-        <h1>Contacts</h1>
+        <h1>Chat with us!</h1>
 
         <p>
         If you have questions or need assistance with the University of
@@ -22,9 +24,9 @@ function Contact(){
         student portal to stay informed about important information and
         upcoming activities.
       </p>
-        </>
-        
-        
-    );
+    
+
+</>
+    )
 }
 export default Contact;
